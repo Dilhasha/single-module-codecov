@@ -1,0 +1,7 @@
+[package]
+org = "codecoverage_report"
+name = "single_module_codecov"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
